@@ -1,0 +1,51 @@
+Project Description:
+The King County House Sales Dashboard is an interactive Tableau dashboard designed to provide comprehensive insights 
+into the housing market in King County, Washington. This dashboard visualizes key metrics such as daily average house 
+sale prices, distribution of house prices, bedrooms, and bathrooms, as well as a heatmap showing house conditions 
+against their views. It helps stakeholders, including real estate agents, potential buyers, and market analysts, understand 
+housing trends and make data-driven decisions.
+
+Steps Involved:
+Data Collection and Preparation:
+Data Source: Acquired housing sales data for King County, including details such as sale prices, number of bedrooms and 
+bathrooms, house condition, view, and geographic information.
+Data Cleaning: Cleaned the data to handle missing values, duplicates, and inconsistencies using Excel for initial preparation.
+
+Data Import to Tableau:
+Imported the cleaned dataset into Tableau for further analysis and visualization.
+
+Data Modeling:
+Created relationships between different tables in the dataset to enable accurate and efficient data analysis.
+Ensured the data model supports the necessary calculations and visualizations.
+
+Dashboard Design:
+Layout Planning: Designed the layout of the dashboard, ensuring a logical flow and easy navigation for users.
+Visual Elements: Added various visualizations to represent the housing sales data:
+Calendar Filter: Allows users to select a specific date range to view the data.
+Line Chart: Daily average house sales price, showing the trend of house prices over the selected period.
+Histogram: Distribution of house prices, providing insights into the frequency of houses sold at different price ranges.
+Bar Chart: Distribution of bedrooms and bathrooms, indicating the number of houses with different bedroom and bathroom counts.
+Heatmap: View vs condition heatmap, showing the average price of houses based on their condition and view.
+Map: Geographic distribution of house sales, visualizing the locations and prices of houses sold.
+
+Interactive Elements:
+Filters and Slicers: Implemented filters to allow users to filter data by date, year built, square footage of living space, and 
+lot size, providing a customized view of the data.
+Dynamic Charts: Ensured that charts and graphs update dynamically based on user selections from filters and slicers.
+
+Final Touches:
+Aesthetic Enhancements: Applied a consistent color scheme, fonts, and design elements to enhance the visual appeal of 
+the dashboard.
+Usability Testing: Conducted usability testing to ensure the dashboard is intuitive and user-friendly, making adjustments 
+based on feedback.
+
+Technical Details:
+Tools Used: Tableau for data visualization and dashboard creation.
+Data Cleaning: Utilized Excel for initial data cleaning and preparation.
+Design Considerations: Focused on creating an accessible and visually appealing interface, with a clear emphasis on ease 
+of use and readability.
+
+Conclusion:
+The King County House Sales Dashboard is a valuable tool for understanding the housing market trends in King County, 
+Washington. It provides actionable insights that can help real estate professionals and potential buyers make informed 
+decisions. This project demonstrates proficiency in data analysis, Tableau functionality, and dashboard design.
